@@ -1,4 +1,4 @@
-version 1.0
+version 2.0
 
 .. Read the Docs Template documentation master file, created by
    sphinx-quickstart on Tue Aug 26 14:19:49 2014.
